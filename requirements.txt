@@ -1,0 +1,7 @@
+Flask==2.3.2
+numpy==1.23.0
+opencv-python==4.10.0.84
+supervision==0.2.0
+ultralytics==8.3.35
+waitress==3.0.2
+
